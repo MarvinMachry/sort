@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1555024477 source:/home/elder/CodeBlocks Projects/Ordenacoes/Sorts/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"bubble.h"
+	"insertion.h"
+	"util.h"
+	"time.h"
+	"quick.h"
+	"heap.h"
+
+1554846260 /home/elder/CodeBlocks Projects/Ordenacoes/Sorts/bubble.h
+	"util.h"
+
+1554846258 /home/elder/CodeBlocks Projects/Ordenacoes/Sorts/util.h
+
+1554846256 /home/elder/CodeBlocks Projects/Ordenacoes/Sorts/insertion.h
+	"util.h"
+
+1554846258 /home/elder/CodeBlocks Projects/Ordenacoes/Sorts/quick.h
+	"util.h"
+
+1554846258 /home/elder/CodeBlocks Projects/Ordenacoes/Sorts/heap.h
+	"util.h"
+
